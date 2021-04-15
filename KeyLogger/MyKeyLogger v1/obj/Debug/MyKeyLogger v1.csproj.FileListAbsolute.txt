@@ -1,0 +1,7 @@
+C:\Users\Keyo\source\repos\MyKeyLogger v1\MyKeyLogger v1\bin\Debug\MyKeyLogger v1.exe.config
+C:\Users\Keyo\source\repos\MyKeyLogger v1\MyKeyLogger v1\bin\Debug\MyKeyLogger v1.exe
+C:\Users\Keyo\source\repos\MyKeyLogger v1\MyKeyLogger v1\bin\Debug\MyKeyLogger v1.pdb
+C:\Users\Keyo\source\repos\MyKeyLogger v1\MyKeyLogger v1\obj\Debug\MyKeyLogger v1.csprojAssemblyReference.cache
+C:\Users\Keyo\source\repos\MyKeyLogger v1\MyKeyLogger v1\obj\Debug\MyKeyLogger v1.csproj.CoreCompileInputs.cache
+C:\Users\Keyo\source\repos\MyKeyLogger v1\MyKeyLogger v1\obj\Debug\MyKeyLogger v1.exe
+C:\Users\Keyo\source\repos\MyKeyLogger v1\MyKeyLogger v1\obj\Debug\MyKeyLogger v1.pdb
